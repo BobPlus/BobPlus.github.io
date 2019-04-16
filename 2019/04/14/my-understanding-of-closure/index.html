@@ -7,17 +7,17 @@
   
   <title>my understanding of closure | Hexo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
+  <meta name="description" content="理解闭包的基本知识可执行代码JavaScript引擎对代码采取一段一段分析执行的方式，此处的代码段指的就是可执行代码。 闭包应用实例这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
 <meta property="og:type" content="article">
 <meta property="og:title" content="my understanding of closure">
 <meta property="og:url" content="http://yoursite.com/2019/04/14/my-understanding-of-closure/index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
+<meta property="og:description" content="理解闭包的基本知识可执行代码JavaScript引擎对代码采取一段一段分析执行的方式，此处的代码段指的就是可执行代码。 闭包应用实例这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-04-14T14:14:17.503Z">
+<meta property="og:updated_time" content="2019-04-16T02:38:55.520Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="my understanding of closure">
-<meta name="twitter:description" content="这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
+<meta name="twitter:description" content="理解闭包的基本知识可执行代码JavaScript引擎对代码采取一段一段分析执行的方式，此处的代码段指的就是可执行代码。 闭包应用实例这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字  这是引用的内容  这是引用的内容">
   
     <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
   
@@ -86,7 +86,8 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>`<br><strong><em>这是斜体加粗的文字</em></strong><br><del>这是加删除线的文字</del></p>
+        <h1 id="理解闭包的基本知识"><a href="#理解闭包的基本知识" class="headerlink" title="理解闭包的基本知识"></a>理解闭包的基本知识</h1><h2 id="可执行代码"><a href="#可执行代码" class="headerlink" title="可执行代码"></a>可执行代码</h2><p>JavaScript引擎对代码采取一段一段分析执行的方式，此处的代码段指的就是可执行代码。</p>
+<h1 id="闭包应用实例"><a href="#闭包应用实例" class="headerlink" title="闭包应用实例"></a>闭包应用实例</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>`<br><strong><em>这是斜体加粗的文字</em></strong><br><del>这是加删除线的文字</del></p>
 <blockquote>
 <p>这是引用的内容</p>
 <blockquote>
@@ -101,7 +102,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/04/14/my-understanding-of-closure/" data-id="cjuh0f2vw0000wovnz18gw032" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2019/04/14/my-understanding-of-closure/" data-id="cjuj7dh9s0000bkvnaopgmfy2" class="article-share-link">Share</a>
       
       
     </footer>
@@ -169,7 +170,7 @@
   
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2019 John Doe<br>
+      &copy; 2019 BobZhang<br>
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
