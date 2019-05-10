@@ -43,7 +43,7 @@
 <div class="intrude-less">
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
-			<img src="/assets/head_pic.jpg" class="js-avatar">
+			<img src="/assets/img/head.png" class="js-avatar">
 		</a>
 		<hgroup>
 		  <h1 class="header-author"><a href="/">BobZhang</a></h1>
@@ -88,6 +88,9 @@
 					<a class="zhihu" target="_blank" href="https://www.zhihu.com/people/zhang-lao-bo-hu-le/activities" title="zhihu"><i class="icon-zhihu"></i></a>
 		        
 			</div>
+			<!-- 加入网易云音乐模块 -->
+			<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=186513&auto=1&height=66"></iframe>
+			<!-- 加入网易云音乐模块 -->
 		</nav>
 	</header>		
 </div>
@@ -103,7 +106,7 @@
 	<div class="intrude-less">
 		<header id="header" class="inner">
 			<div class="profilepic">
-				<img src="/assets/head_pic.jpg" class="js-avatar">
+				<img src="/assets/img/head.png" class="js-avatar">
 			</div>
 			<hgroup>
 			  <h1 class="header-author js-header-author">BobZhang</h1>
@@ -221,12 +224,20 @@
     	<div class="footer-left">
     		&copy; 2019 BobZhang
     	</div>
+
+			<!-- 更改网页右下角内容，添加统计网站访问量 -->
       	<div class="footer-right">
-      		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten
+      		<!-- <a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten -->
+					<!-- # PV方式，单个用户连续点击 n 篇，记录 n 次记录值 -->
+					<span id="busuanzi_container_site_pv"> 本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
+					<!-- # UV方式，单个用户连续点击 n 篇，记录 1 次记录值 -->
+					<span id="busuanzi_container_site_uv"> 本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
       	</div>
     </div>
   </div>
 </footer>
+
     </div>
     <script>
 	var yiliaConfig = {
@@ -271,6 +282,9 @@ MathJax.Hub.Queue(function() {
 </script>
 
 
+
+<!-- 增加不蒜子脚本 -->
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     
 <div class="tools-col" q-class="show:isShow,hide:isShow|isFalse" q-on="click:stop(e)">
   <div class="tools-nav header-menu">
@@ -406,7 +420,7 @@ MathJax.Hub.Queue(function() {
     
     	<section class="tools-section tools-section-me" q-show="aboutme">
   	  	
-  	  		<div class="aboutme-wrap" id="js-aboutme">很惭愧&lt;br&gt;&lt;br&gt;只做了一点微小的工作&lt;br&gt;谢谢大家</div>
+  	  		<div class="aboutme-wrap" id="js-aboutme">欢迎大家关注我&lt;br&gt;&lt;br&gt;我生活在重庆，是一个前端开发爱好者，有兴趣交朋友就请关注我并留言吧！&lt;br&gt;谢谢大家</div>
   	  	
     	</section>
     
