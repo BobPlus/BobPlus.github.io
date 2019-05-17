@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>多米帕帕的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zhangzihang.cn/"/>
+  <updated>2019-05-15T04:21:08.840Z</updated>
+  <id>https://zhangzihang.cn/</id>
+  
+  <author>
+    <name>DomiPapa</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JQuery 源码解析</title>
+    <link href="https://zhangzihang.cn/2019/05/15/JQuery-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://zhangzihang.cn/2019/05/15/JQuery-源码解析/</id>
+    <published>2019-05-15T04:09:41.000Z</published>
+    <updated>2019-05-15T04:21:08.840Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;内置函数解析&quot;&gt;&lt;a href=&quot;#内置函数解析&quot; class=&quot;headerlink&quot; title=&quot;内置函数解析&quot;&gt;&lt;/a&gt;内置函数解析&lt;/h2&gt;&lt;h3 id=&quot;isPlainObject&quot;&gt;&lt;a href=&quot;#isPlainObject&quot; class=&quot;headerlink&quot; title=&quot;isPlainObject&quot;&gt;&lt;/a&gt;isPlainObject&lt;/h3&gt;
+    
+    </summary>
+    
+    
+      <category term="tech" scheme="https://zhangzihang.cn/categories/tech/"/>
+    
+    
+      <category term="frontend" scheme="https://zhangzihang.cn/tags/frontend/"/>
+    
+      <category term="JQuery" scheme="https://zhangzihang.cn/tags/JQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>稻城亚丁之旅</title>
+    <link href="https://zhangzihang.cn/2019/05/08/%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E4%B9%8B%E6%97%85/"/>
+    <id>https://zhangzihang.cn/2019/05/08/稻城亚丁之旅/</id>
+    <published>2019-05-08T08:32:28.000Z</published>
+    <updated>2019-05-15T03:18:36.114Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;去往稻城亚丁的路上&quot;&gt;&lt;a href=&quot;#去往稻城亚丁的路上&quot; class=&quot;headerlink&quot; title=&quot;去往稻城亚丁的路上&quot;&gt;&lt;/a&gt;去往稻城亚丁的路上&lt;/h3&gt;&lt;p&gt;2019年4月30日，我与老婆两人开启了稻城亚丁朝圣之旅。过了雅安、康定，就来到了中国最美国道行——318国道，沿途处处可见蓝天白云下，涤荡心灵尘埃的美景。&lt;br&gt;&lt;strong&gt;全文图片较多，请在wifi下打开，土豪请随意。&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="essay" scheme="https://zhangzihang.cn/categories/essay/"/>
+    
+    
+      <category term="life-time" scheme="https://zhangzihang.cn/tags/life-time/"/>
+    
+      <category term="tour" scheme="https://zhangzihang.cn/tags/tour/"/>
+    
+  </entry>
+  
+</feed>
