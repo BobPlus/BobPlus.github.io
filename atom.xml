@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangzihang.cn/"/>
-  <updated>2019-05-25T02:14:00.620Z</updated>
+  <updated>2019-06-17T06:49:07.291Z</updated>
   <id>https://zhangzihang.cn/</id>
   
   <author>
@@ -17,15 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>与java的相爱相杀之旅</title>
+    <link href="https://zhangzihang.cn/2019/06/11/%E4%B8%8Ejava%E7%9A%84%E7%9B%B8%E7%88%B1%E7%9B%B8%E6%9D%80%E4%B9%8B%E6%97%85/"/>
+    <id>https://zhangzihang.cn/2019/06/11/与java的相爱相杀之旅/</id>
+    <published>2019-06-11T03:43:21.000Z</published>
+    <updated>2019-06-17T06:49:07.291Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##运行机制梳理&lt;/p&gt;
+&lt;p&gt;###访问权限&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="tech" scheme="https://zhangzihang.cn/categories/tech/"/>
+    
+    
+      <category term="backend" scheme="https://zhangzihang.cn/tags/backend/"/>
+    
+      <category term="Java" scheme="https://zhangzihang.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>叙利亚的哭声，谁在听？</title>
     <link href="https://zhangzihang.cn/2019/05/18/%E5%8F%99%E5%88%A9%E4%BA%9A%E7%9A%84%E5%93%AD%E5%A3%B0%EF%BC%8C%E8%B0%81%E5%9C%A8%E5%90%AC%EF%BC%9F/"/>
     <id>https://zhangzihang.cn/2019/05/18/叙利亚的哭声，谁在听？/</id>
     <published>2019-05-17T16:14:57.000Z</published>
-    <updated>2019-05-25T02:14:00.620Z</updated>
+    <updated>2019-05-25T02:49:49.063Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;一部纪录片&quot;&gt;&lt;a href=&quot;#一部纪录片&quot; class=&quot;headerlink&quot; title=&quot;一部纪录片&quot;&gt;&lt;/a&gt;一部纪录片&lt;/h3&gt;&lt;p&gt;最近看了一部17年的纪录片——《叙利亚的哭声》，影片以叙利亚内战发展过程为时间线，从普通人民的视角出发，以街拍视频和采访谈话的方式，真实地反映了叙利亚民众在多年内战下的精神与生活状态。&lt;br&gt;&lt;strong&gt;图片较多，部分可能会引起不适&lt;/strong&gt;&lt;br&gt;
+      &lt;h3 id=&quot;一部纪录片&quot;&gt;&lt;a href=&quot;#一部纪录片&quot; class=&quot;headerlink&quot; title=&quot;一部纪录片&quot;&gt;&lt;/a&gt;一部纪录片&lt;/h3&gt;&lt;p&gt;最近看了一部17年的纪录片——《叙利亚的哭声》，影片以叙利亚内战发展过程为时间线，从普通人民的视角出发，以街拍视频和采访谈话的方式，真实地反映了叙利亚民众在多年内战下的精神与生活状态。&lt;br&gt;&lt;strong&gt;图片较多，部分可能会引起不适。&lt;/strong&gt;&lt;br&gt;
     
     </summary>
     
